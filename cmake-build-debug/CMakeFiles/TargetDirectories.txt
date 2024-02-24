@@ -1,3 +1,0 @@
-D:/Proyectos_2024/Calculator/cmake-build-debug/CMakeFiles/Calculator.dir
-D:/Proyectos_2024/Calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Proyectos_2024/Calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
